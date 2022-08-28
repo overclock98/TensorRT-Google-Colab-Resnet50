@@ -1,7 +1,7 @@
 # TensorRT-Google-Colab-Resnet50
 Installation of TensorRT 7.0 in Google Colab and build and run Resnet50 with Tensor RT
 
-Reference
+Reference:
 
 https://learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/
 
